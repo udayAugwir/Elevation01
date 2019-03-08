@@ -46,6 +46,7 @@ ModelImporter:
     100080: Plane_004
     100082: Plane_005
     100084: stairs6
+    100086: Cube_034
     400000: Cube
     400002: Cube_001
     400004: Cube_002
@@ -89,6 +90,7 @@ ModelImporter:
     400080: Plane_004
     400082: Plane_005
     400084: stairs6
+    400086: Cube_034
     2100000: unnamed
     2100002: StairsGlass
     2100004: Stairs_Main
@@ -135,6 +137,7 @@ ModelImporter:
     2300078: Plane_004
     2300080: Plane_005
     2300082: stairs6
+    2300084: Cube_034
     3300000: Cube
     3300002: Cube_001
     3300004: Cube_002
@@ -177,6 +180,7 @@ ModelImporter:
     3300078: Plane_004
     3300080: Plane_005
     3300082: stairs6
+    3300084: Cube_034
     4300000: Cube_036
     4300002: Plane_005
     4300004: Cube_033
@@ -219,6 +223,7 @@ ModelImporter:
     4300078: Cube_002
     4300080: Cube_001
     4300082: Cube
+    4300084: Cube_034
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
